@@ -1,2 +1,1 @@
-# azurenew
-this for azure
+<h1>we are in bangalore<h1>
